@@ -1,9 +1,11 @@
-baseURL = ""
+baseURL = "https://kerman.netlify.com/"
 languageCode = "en-us"
 title = "@kermankohli"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+relativeURLs = true
+uglyURLs = true
 
 [params]
     author = "Kerman Kohli"
