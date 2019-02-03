@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+
+        <h1>{{ .Site.Title }}</h1>
+
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+
+        <hr/>
+
+        {{ range (.Paginator 25).Pages }} {{ partial "list-item" . }} {{ end }}
+
+        {{ partial "paginator" . }}
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
