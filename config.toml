@@ -1,4 +1,4 @@
-baseURL = "https://kerman.netlify.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "@kermankohli"
 theme = "minimal"
