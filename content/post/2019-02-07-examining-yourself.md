@@ -13,7 +13,7 @@ For me, at one point I wanted to lift to gain confidence and get fit. The next f
 
 So, I asked myself:
 - "Why do I go to the gym?"  -> "To Exercise"
-- "Is gym the only notion of exerciing" -> "Of course not"
+- "Is gym the only notion of exercising" -> "Of course not"
 - "Why do I only go to the gym and discount other avenues?" -> "Because I've been going to the gym for a long time already"
 - "Aha, okay and why did I start going to the gym" -> "To gain confidence and get fit"
 
@@ -23,9 +23,9 @@ If you carefully deconstruct your entire life, there's probably more to you than
 
 ## Long Term Focus
 
-I always think it's important that we keep asking ourselves what we want out of life and continually course adjusting until we feel fully aligned. Circumstances change, things happen, and our previous ways of living life become outdated. Part of it all is having to continually readjust your map of reality. Quarterly life reviews can often be very helpful because they force you to think about a small, yet non-trival part of your life.
+I always think it's important that we keep asking ourselves what we want out of life and continually course adjusting until we feel fully aligned. Circumstances change, things happen, and our previous ways of living life become outdated. Part of it all is having to continually readjust your map of reality. Quarterly life reviews can often be very helpful because they force you to think about a small, yet non-trivial part of your life.
 
-If you're interseted in learning more, I'd recommend checking out this blog post by my friend Scott:
+If you're interested in learning more, I'd recommend checking out this blog post by my friend Scott:
 
 https://medium.com/@scottzhou_15885/life-reviews-why-you-should-intentionally-plan-reflect-and-review-your-life-bf48a7ec569f
 

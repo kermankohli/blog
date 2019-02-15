@@ -1,0 +1,19 @@
+
+---
+title: "Don't believe "success stories". They're highly edited."
+date: 2019-02-16
+tags: ["history", "success", "stories"]
+draft: false
+---
+
+I've recently been reading the book "How The Internet Happened". It's a fascinating read about how the internet came to be as it is. From the 80's when PCs were all the rage, to the late 2010's where we see today's winners. What struck me as surprising as the edited success stories of all the winners.
+
+Take Jeff Bezos for example. The glamorous story is that he left his high paying Wall Street job to pursue a life of entrepreneurship and uncertainty. While this is true to some extent, it was actually much more strategic than that. At his job he was assigned with the task to explore various business models on the internet. One idea that his colleagues were toying around with was the idea of an "everything store". Trying to ship everything was a bit too ambitious. Instead he decided to investigate over 20 product categories which would be more suitable for shipping things over the internet. There were over 3M unique book titles in the world but only 300,000 unique records. So offering the long-tail choice was where the internet could add more value since no single book store could hold all those titles. The tale also says that they had packed everything up and went west. Turns out Jeff had actually flown to California to recruit software engineering talent. Seattle wasn't a mistake either, it was chosen based on numerous carefully chosen factors such as tax, talent, distribution centers etc. Amazon managed to achieve significant traction within a year as well.
+
+Another one that I find interesting is the Google founding story. Tale has it that two kids from Stanford created a text-engine that blew everything out of the water through complex algorithms and dominated the world. While true, the story is actually a lot more nuanced than that. While everyone was looking for the next "portal" of the internet (Yahoo being a major contender), a search engine was something that no one really thought could be a groundbreaking innovation. At a time where search engines where highly inaccurate and not very good, Google was based on the simple idea that you could determine how relevant something was based on how often it was cited (or linked). With this idea, they created the first version over the course of a year and started to get slow steady traction at the same time. Not many people believe search engines would be bigger than portals until it was too late. Their innovation was mostly ignored, until it wasn't.
+
+Netflix's founding tale is also quite edited. It apparently goes that Reed Hastings (CEO) received a $40 late fee after not returning Apollo 40 on time. Scarred, he decided to create Netflix. Turns out this is quite far from the truth as well. Marc Randolph was an employee at one of Reed's previous companies. He had an idea that rather than creating the world's largest book store, what if you created the world's largest rental store? Hastings decided to advise and fund Marc's idea. As Netflix started to get more traction, Reed purchased majority stake in Marc's idea and assumed role of CEO. It's also important to know that at the time the DVD player was one of the fastest adopted consumer electronics technology in history. Such growth had been unprecedented before.
+
+## A last note on timing
+
+Through all of these stories, and countless others such as Facebook, MySpace etc. Timing was the most crucial element for all of these successes. Without riding a larger wave (such as the internet), achieving success was near impossible. We don't know where the future is going to go, however we can be highly aware of the times we live in and quantify the data we do have.
