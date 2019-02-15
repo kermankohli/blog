@@ -26,6 +26,7 @@ main {
 
 .intro {
     transform: translateY(4vh);
+    padding-bottom: 50px
 }
 
 .intro > h1 {
