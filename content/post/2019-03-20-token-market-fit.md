@@ -11,7 +11,6 @@ draft: false
 > The most important feature everyone missed about cryptocurrencies is the birth
 > of economies outside of government control
 
-![](https://cdn-images-1.medium.com/max/800/0*Z1jiqgKALCjB88en)
 
 Economies are going to start meaning something entirely different in the 21st
 century. They’re going to be physical (countries) or full digital
@@ -41,8 +40,6 @@ product can gain traction in the crypto community but fail to capture the value
 created by it in the form of a token.
 
 ### Projects
-
-![](https://cdn-images-1.medium.com/max/800/0*mOfj4gbiXWYXbIx8)
 
 So how many projects have achieved this elusive goal? 4 exactly. Here’s a brief
 explanation of their histories and what qualifies them:

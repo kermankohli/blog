@@ -1,6 +1,6 @@
 
 ---
-title: "The State of Crypto Interoperability. (Explained in Pictures)."
+title: "The State of Crypto Interoperability."
 date: 2019-04-18
 tags: ["ethereum", "crypto", "interoperability", "cosmos", "polkadot"]
 draft: false

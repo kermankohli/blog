@@ -208,9 +208,3 @@ They also throw amazing parties but that’s for another time.
 * [https://medium.com/@visionhill_/a-makerdao-case-study-47a31d858be5](https://medium.com/@visionhill_/a-makerdao-case-study-47a31d858be5)
 * [https://www.reddit.com/r/MakerDAO/comments/asb9n6/a_couple_questions_concerns_about_maker_and_mkr/](https://www.reddit.com/r/MakerDAO/comments/asb9n6/a_couple_questions_concerns_about_maker_and_mkr/)
 * [https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf)
-
-* [Ethereum](https://hackernoon.com/tagged/ethereum?source=post)
-* [Makerdao](https://hackernoon.com/tagged/makerdao?source=post)
-* [Protocol](https://hackernoon.com/tagged/protocol?source=post)
-* [Crypto](https://hackernoon.com/tagged/crypto?source=post)
-* [Cryptocurrency](https://hackernoon.com/tagged/cryptocurrency?source=post)
